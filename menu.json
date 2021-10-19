@@ -1,0 +1,16 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "soup"
+        },
+        {
+            "id": 2,
+            "name": "Meat"
+        },
+        {
+            "id": 3,
+            "name": "Omelettes"
+        }
+    ]
+}

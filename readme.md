@@ -1,0 +1,1 @@
+Tugas UAS TST 18219023
